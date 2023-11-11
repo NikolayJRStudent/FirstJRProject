@@ -1,9 +1,9 @@
 # FirstJRProject
 
-Расшифровка шифра цезаря
+Decoding the Caesar Cipher
 
-https://planetcalc.ru/1434/ шифровал собщение на этом сайте
+https://planetcalc.ru/1434/ encrypted a message on this site
 
-В конце зашифрованного предлложения должна стоять ("." "!" "?") (P.S Это фича)
+At the end of the encrypted sentence there should be ("." "!" "?") (P.S This is a feature)
 
-В консоль выводится массив возможных зашифрованных сообщений
+An array of possible encrypted messages is output to the console
